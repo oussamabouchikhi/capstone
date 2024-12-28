@@ -13,15 +13,16 @@ export const About = () => {
         >
           <Stack.Item vertical>
             <Heading>Little Lemon</Heading>
-            <p>Chicago</p>
+            <p>Oran</p>
           </Stack.Item>
 
           <p>
-            Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet
-            sint. Velit officia consequat duis enim velit mollit. Exercitation
-            veniam consequat sunt nostrud amet. Amet minim mollit non deserunt
-            ullamco est sit aliqua dolor do amet sint. Velit officia consequat
-            duis enim velit mollit.
+          Welcome to Little Lemon, your destination for authentic Algerian cuisine. 
+          Inspired by the rich culinary heritage of Algeria, we bring you traditional 
+          dishes crafted with love and served with pride. From the flaky layers of {' '}
+          <strong>Mhadjeb</strong> to the comforting warmth of Rechta and the flavorful 
+          garlic-infused goodness of <strong>Mtewem</strong>, our menu is a celebration 
+          of Algeria’s diverse and vibrant food culture.
           </p>
         </Stack.Item>
 
@@ -29,14 +30,16 @@ export const About = () => {
           <section id="about-images">
             <div id="about-first-image">
               <img
-                src="https://ik.imagekit.io/zenius/Coursera/html-css/little-lemon-pastas_-BfcomSI5.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1674426273746"
-                alt="Little Lemon - Burritos"
+                src="https://i.ytimg.com/vi/x3iesX8AYko/maxresdefault.jpg"
+                style={{ objectFit: 'cover', height: '150%' }}
+                alt="Little Lemon - Mhadjeb"
               />
             </div>
             <div id="about-second-image">
               <img
-                src="https://ik.imagekit.io/zenius/Coursera/html-css/little-lemon-hero_szKmkAXsc.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1675005773288"
-                alt="Little Lemon - Pastas"
+                src="https://i.pinimg.com/736x/f2/50/1a/f2501a238f4766024809c1f40d233a10.jpg"
+                style={{ objectFit: 'cover' }}
+                alt="Little Lemon - Rechta"
               />
             </div>
           </section>

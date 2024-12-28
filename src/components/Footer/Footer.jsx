@@ -40,7 +40,7 @@ export const Footer = () => {
           Contact
         </Heading>
         <article>
-          <p>2548 Matthews Street, Chicago, Illinois - 60631</p>
+          <p>34 Rue khmisti, Oran, Oran - 31000</p>
           <p>815-582-5830</p>
           <p>contact@littlelemon.com</p>
         </article>

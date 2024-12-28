@@ -17,7 +17,7 @@ export const Specials = ({ data, itemWidth }) => {
               <Heading tag="h3" size="m" className="food-title">
                 {title}
               </Heading>
-              <p className="food-price">${price}</p>
+              <p className="food-price">{price} DA</p>
             </div>
             <div className="food-desc">{description}</div>
 

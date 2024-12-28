@@ -11,10 +11,9 @@ export const Hero = () => {
         <Heading tag="h1" size="2xl">
           Little Lemon
         </Heading>
-        <p className="subtitle">Chicago</p>
+        <p className="subtitle">Oran</p>
         <p id="LL-Hero-desc">
-          We are a family owned Mediterranean restaurant, focused on traditional
-          recipes served with a modern twist.
+          Welcome to Little Lemon, your destination for authentic Algerian cuisine.
         </p>
         <Button
           ariaLabel="Reserve a Table"
@@ -27,7 +26,7 @@ export const Hero = () => {
       </div>
       <div className="LL-Hero-right">
         <img
-          src="https://ik.imagekit.io/zenius/Coursera/html-css/little-lemon-pizzas_v269Oq2LM.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1674426273890"
+          src="https://i.ytimg.com/vi/5wsdUOxojr8/maxresdefault.jpg"
           alt="Little Lemon - Hero"
         />
       </div>

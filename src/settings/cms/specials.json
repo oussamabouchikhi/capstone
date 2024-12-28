@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Mhadjeb",
+    "image": "https://cuisinezavecdjouza.fr/wp-content/uploads/2018/06/Mhajeb-triangles-photo-3.jpg",
+    "price": 80.00,
+    "description": "A flatbread stuffed with spicy tomato sauce."
+  },
+  {
+    "id": 2,
+    "title": "Rechta",
+    "image": "https://cuisinezavecdjouza.fr/wp-content/uploads/2015/12/Rechta-sauce-blanche-photo-5.jpg",
+    "price": 350.00,
+    "description": "Thin noodles served with a chicken or lamb stew."
+  },
+  {
+    "id": 3,
+    "title": "Mtewem",
+    "image": "https://www.myexcellentdegustations.com/wp-content/uploads/2019/05/C9280E2F-3CD7-466F-8B8F-00828C3AB3E9-1024x768.jpeg",
+    "price": 600.00,
+    "description": "A garlic-rich meat dish with chickpeas."
+  }
+]
